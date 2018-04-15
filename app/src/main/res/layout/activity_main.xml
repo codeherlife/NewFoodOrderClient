@@ -10,7 +10,24 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="You left off at 36 minutes in the video. This may get removed."
+        android:text="Sign up ^_^"
    />
 
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter email"
+        android:id="@+id/editEmail"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter password"
+        android:id="@+id/editPass"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
