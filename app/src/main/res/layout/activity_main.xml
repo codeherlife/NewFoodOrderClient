@@ -32,4 +32,20 @@
         android:layout_height="wrap_content"
         android:text="Sign up!"
         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Do you already have an account?"
+        android:layout_marginTop="250dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign in"
+        />
+
+    <!--left off at ??:00 on youtube video CONTINUE HERE-->
+    
 </LinearLayout>
