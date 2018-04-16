@@ -31,6 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sign up!"
+        android:onClick="signupButtonClicked"
         />
 
     <TextView
@@ -44,8 +45,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sign in"
+        android:onClick="signinButtonClicked"
         />
 
-    <!--left off at ??:00 on youtube video CONTINUE HERE-->
+    <!--left off at 39:00 on youtube video -->
     
 </LinearLayout>
