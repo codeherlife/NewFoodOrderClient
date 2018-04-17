@@ -48,6 +48,6 @@
         android:onClick="signinButtonClicked"
         />
 
-    <!--left off at 39:00 on youtube video -->
+
     
 </LinearLayout>
