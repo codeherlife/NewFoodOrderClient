@@ -2,6 +2,7 @@ package com.codeherlife.newfoodorderclient;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         email= (EditText) findViewById(R.id.editEmail);
+        pass= (EditText) findViewById(R.id.editPass)
 
     }
 }
